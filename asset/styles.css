@@ -1,0 +1,16 @@
+section#hm-r1.my-projs img {
+    width: 100%;
+    height: auto;
+}
+section#hm-r1 .row {
+    padding: 20px 0;
+    display: flex;
+    align-items: center;
+}
+ul.affiliation-list.row li{
+    list-style: none;
+}
+ul.affiliation-list.row img {
+    width: 100%;
+    height: auto;
+}
