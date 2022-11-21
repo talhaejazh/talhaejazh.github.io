@@ -1,1 +1,1 @@
-# [Personal website](https://https://talhaejazh.github.io/)
+# [Personal website](https://talhaejazh.github.io/)
