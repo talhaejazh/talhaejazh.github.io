@@ -8,7 +8,10 @@ section#hm-r1 .row {
     align-items: center;
 }
 ul.affiliation-list.row li{
-    list-style: none;
+    /* list-style: none; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 ul.affiliation-list.row img {
     width: 100%;
